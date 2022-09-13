@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Evangaelion
 Top Gun
 Top Gun 2
+=======
+steak
+eggs
+taters
+>>>>>>> foods
